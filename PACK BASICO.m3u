@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrRCnrz/AMC.jpg" group-title="CINE Y SERIES",Amc
+http://tecnotv.club/wanda/principal.php?c=6&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DRjDMwJ/a-amp-e.jpg" group-title="CINE Y SERIES",A&e
+http://tecnotv.club/wanda/principal.php?c=3&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cht20hW/Warner-Channel.jpg" group-title="CINE Y SERIES",Warner channenel
+http://tecnotv.club/wanda/principal.php?c=163&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2f4bRr/FOX.jpg" group-title="CINE Y SERIES",Fox Channel
+http://tecnotv.club/wanda/principal.php?c=63&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYFNymr/Universal-channel.jpg" group-title="CINE Y SERIES",Universal
+http://tecnotv.club/wanda/principal.php?c=159&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6DphvY/FOX-LIFE.jpg" group-title="CINE Y SERIES",Fox Life
+http://tecnotv.club/wanda/principal.php?c=64&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qyvKB8G/AXN.jpg" group-title="CINE Y SERIES",Axn
+http://tecnotv.club/wanda/principal.php?c=9&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5stn54k/SONY.jpg" group-title="CINE Y SERIES",Sony
+http://tecnotv.club/wanda/principal.php?c=132&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrVNhdy/Tnt.jpg" group-title="CINE Y SERIES",Tnt
+http://tecnotv.club/wanda/principal.php?c=146&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XL3MB0M/SPACE.jpg" group-title="CINE Y SERIES",Space
+http://tecnotv.club/wanda/principal.php?c=133&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRgy97L/Studio-Universal.jpg" group-title="CINE Y SERIES",Studio Universal
+http://tecnotv.club/wanda/principal.php?c=134&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jWCp9z8/FX-IP.jpg" group-title="CINE Y SERIES",Fx
+http://tecnotv.club/wanda/principal.php?c=90&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBBrf9v/TBS.jpg" group-title="CINE Y SERIES",Tbs
+http://tecnotv.club/wanda/principal.php?c=138&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWdwvx0/TCM.jpg" group-title="CINE Y SERIES",Tcm
+http://tecnotv.club/wanda/principal.php?c=139&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thdx4Hh/CINE-CANAL.jpg" group-title="CINE Y SERIES",Cine canal
+http://tecnotv.club/wanda/principal.php?c=25&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb8sVg6/CINEMAX.png" group-title="CINE Y SERIES",Cinemax
+http://tecnotv.club/wanda/principal.php?c=26&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkbYPqj/Paramount.jpg" group-title="CINE Y SERIES",Paramount
+http://tecnotv.club/wanda/principal.php?c=127&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmFm7mZ/TNT-SERIES.jpg" group-title="CINE Y SERIES",Tnt Series
+http://tecnotv.club/wanda/principal.php?c=147&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDDrkc4/FOX-ACTION.jpg" group-title="CINE Y SERIES",Fox Premium Action
+http://tecnotv.club/wanda/principal.php?c=65&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwRhvNV/FOX-CINEMA.jpg" group-title="CINE Y SERIES",Fox Premium Cinema
+http://tecnotv.club/wanda/principal.php?c=67&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nCzFtNW/fox-comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
+http://tecnotv.club/wanda/principal.php?c=69&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tsjrQQm/FOX-CLASSIC-IPTVFR.jpg" group-title="CINE Y SERIES",Fox Premium Classics
+http://tecnotv.club/wanda/principal.php?c=68&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9bsHPy5/fox-family.jpghttps://i.ibb.co/9bsHPy5/fox-family.jpg"group-title="CINE Y SERIES",Fox Premium Family
+http://tecnotv.club/wanda/principal.php?c=70&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dky8jRH/fox-series.jpg" group-title="CINE Y SERIES",Fox Premium Series
+http://tecnotv.club/wanda/principal.php?c=72&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sd5rT28/fox-movies.jpg" group-title="CINE Y SERIES",Fox Premium Movies
+http://tecnotv.club/wanda/principal.php?c=71&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/547dCNk/GOLDEN.jpg" group-title="CINE Y SERIES",Golden
+http://tecnotv.club/wanda/principal.php?c=95&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO
+http://tecnotv.club/wanda/principal.php?c=74&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CHd4GZ3/hbo2.jpg" group-title="CINE Y SERIES",HBO 2
+http://tecnotv.club/wanda/principal.php?c=75&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5hWtZW/HBO-PLUS-IPTVFR.jpg" group-title="CINE Y SERIES",HBO plus
+http://tecnotv.club/wanda/principal.php?c=78&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xfjmtm/HBO-Family.jpg" group-title="CINE Y SERIES",HBO Family
+http://tecnotv.club/wanda/principal.php?c=76&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jB4d7C/hbo.jpg" group-title="CINE Y SERIES",HBO Signature
+http://tecnotv.club/wanda/principal.php?c=80&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCnTRrK/max-prime.jpg" group-title="CINE Y SERIES",HBO Mundi
+http://tecnotv.club/wanda/principal.php?c=77&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4XFprt/MAX-IPTVFR.jpg" group-title="CINE Y SERIES",HBO Pop
+http://tecnotv.club/wanda/principal.php?c=79&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44sPNz6/ANIMAL-PLANET-PTVFR.jpg" group-title="CULTURA",Animal Planet
+http://tecnotv.club/wanda/principal.php?c=7&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjDXVDR/DISCOVERY-CH.jpg" group-title="CULTURA",Discovery Channel
+http://tecnotv.club/wanda/principal.php?c=35&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBGGSCW/Discovery-Turbo.jpg" group-title="CULTURA",Discovery Turbo
+http://tecnotv.club/wanda/principal.php?c=42&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BfyZBKN/Discovery-Theater.jpg" group-title="CULTURA",Discovery Theater
+http://tecnotv.club/wanda/principal.php?c=40&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dm6LP29/DISCOVERY-SIEN.jpg" group-title="CULTURA",Discovery Sciences
+http://tecnotv.club/wanda/principal.php?c=39&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch2ZYsF/DISCOVERY-HH.jpg" group-title="CULTURA",Discovery H&H
+http://tecnotv.club/wanda/principal.php?c=37&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYLmdYv/Investigation-Discovery.jpg" group-title="CULTURA",Investigation Discovery
+http://tecnotv.club/wanda/principal.php?c=105&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5K4zhV/TLCIPTVFR.jpg" group-title="CULTURA",TLC
+http://tecnotv.club/wanda/principal.php?c=41&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgckk3C/history-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",History
+http://tecnotv.club/wanda/principal.php?c=99&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pct56fs/H2-IPTVFR-2018-09-05-10-53-17-UTC.jpg" group-title="CULTURA",H2
+http://tecnotv.club/wanda/principal.php?c=100&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dW4yXbn/Nat-Geo-Wild.jpg" group-title="CULTURA",Nat Geo Wild
+http://tecnotv.club/wanda/principal.php?c=122&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cw167v4/EL-GURMET.jpg" group-title="CULTURA",El Gourmet
+http://tecnotv.club/wanda/principal.php?c=49&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo=".jpg" group-title="ENTRETENIMIENTO",Justicia TV
+http://tecnotv.club/wanda/principal.php?c=22&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
